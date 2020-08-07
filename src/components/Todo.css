@@ -1,0 +1,7 @@
+ul.list {
+  list-style: none;
+}
+
+li span.crossed {
+  text-decoration: line-through;
+}
